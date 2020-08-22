@@ -15,7 +15,9 @@
 
 ## Hosting Options
 > [Glitch.com](https://glitch.com/)
+>
 > [Heroku](https://www.heroku.com/)
+>
 > Your Own PC
 
 ## Upcoming Features
