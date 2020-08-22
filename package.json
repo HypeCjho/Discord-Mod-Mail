@@ -1,0 +1,46 @@
+{
+  "name": "giveaways-bot",
+  "version": "1.0.0",
+  "description": "Giveways Bot using the discord-giveaways package",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "giveaways",
+    "bot",
+    "discord-giveaways",
+    "example"
+  ],
+  "engines": {
+    "node": "12.16.2"
+  },
+  "homepage": "https://github.com/Androz2091/giveaways-bot#readme",
+  "dependencies": {
+    "ms": "^2.1.2",
+    "express": "^4.17.1",
+    "fs": "^0.0.2",
+    "quick.db": "^7.1.1",
+    "ascii-table": "^0.0.9",
+    "imageapi.js": "^1.0.3",
+    "parse-ms": "^2.0.0",
+    "request-promise-native": "^1.0.8",
+    "novelcovid": "^1.2.7",
+    "request": "^2.88.2",
+    "paypal-rest-sdk": "^1.8.1",
+    "kitsu": "^9.0.7",
+    "animequote": "^1.1.1",
+    "kitsu.js": "^2.0.0",
+    "common-tags": "^1.8.0",
+    "svg-captcha": "^1.4.0",
+    "@haileybot/captcha-generator": "^1.1.1",
+    "voucher-code-generator": "^1.1.1",
+    "discord.js": "^12.2.0",
+    "pretty-ms": "^7.0.0",
+    "canvas": "^2.6.1",
+    "tiny-timer": "^1.5.0",
+    "random-words": "^1.1.0",
+    "moment": "^2.27.0",
+    "timeago.js": "^4.0.2"
+  }
+}
