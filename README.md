@@ -3,7 +3,7 @@
 ## How to use
 1. Go to [Discord Developer Portal](https://discord.com/developers/applications)
 2. Create a new application
-3. Go to "Bot" section the create a new Bot
+3. Go to "Bot" section then create a new Bot
 4. Copy the bot token
 5. Go to config.json then copy the bot token in the token section
 6. Go to the server you want the bot to create the thread in then copy the server id
