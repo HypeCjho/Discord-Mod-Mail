@@ -19,6 +19,8 @@
 > [Heroku](https://www.heroku.com/)
 >
 > Your Own PC
+>
+> [ShardHost](https://shardhost.xyz) - Cheap hosting service
 
 ## Upcoming Features
 Will be releasing ticket logging soon, prob when I'm not bored or busy. Anyway, if you need further assistance, feel free to ask me in discord Hyp3r#0001
